@@ -1,6 +1,6 @@
 ---
 title: Paul Beaumont
-subtitle: Senior Data Science Consultant at <a href="https://www.quantumblack.com/">QuantumBlack</a>, <a href="https://www.mckinsey.com/">McKinsey & Company</a>
+subtitle: Senior Data Science Consultant at QuantumBlack, McKinsey & Company
 layout: layouts/base.njk
 ---
 
