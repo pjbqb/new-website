@@ -12,5 +12,6 @@ My <a href="http://hdl.handle.net/10044/1/54653">PhD thesis</a> is on a "Model-b
 
 I am now a Senior Data Science Consultant at <a href="https://www.quantumblack.com/">QuantumBlack</a>, <a href="https://www.mckinsey.com/">McKinsey & Company</a>. Please get in touch if you would like to discuss opportunities with us.
 
-Email: website@pbeaumont.com
+Email: <a href="mailto:website@pbeaumont.com">website@pbeaumont.com</a>
+
 LinkedIn: <a href="https://uk.linkedin.com/in/pbeaumont">linkedin.com/pbeaumont</a>
