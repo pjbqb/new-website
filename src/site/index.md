@@ -1,6 +1,6 @@
 ---
 title: Paul Beaumont
-subtitle: Senior Data Science Consultant at QuantumBlack, McKinsey & Company
+subtitle: Principal (Jr) Data Scientist at QuantumBlack, McKinsey & Company
 layout: layouts/base.njk
 ---
 
@@ -10,7 +10,7 @@ I completed a PhD in <a href="http://www.imperial.ac.uk/computing">Computer Scie
 
 My <a href="http://hdl.handle.net/10044/1/54653">PhD thesis</a> is on a "Model-based Analysis of Nuclear Arms Control Verification Processes" and was completed under the supervision of <a href="https://www.doc.ic.ac.uk/~mrh/">Prof Michael Huth</a>, in collaboration with the UK's <a href="http://www.awe.co.uk/">Atomic Weapons Establishment</a>.
 
-I am now a Senior Data Science Consultant at <a href="https://www.quantumblack.com/">QuantumBlack</a>, <a href="https://www.mckinsey.com/">McKinsey & Company</a>, and am currently helping to build the new QB Singapore office. Please get in touch if you would like to discuss opportunities with us.
+I am now a Principal (Jr) Data Scientist at <a href="https://www.quantumblack.com/">QuantumBlack</a>, a <a href="https://www.mckinsey.com/">McKinsey company</a>. I'm based in Singapore, helping to build the new office here, whilst working on projects across South East Asia. Please get in touch if you would like to discuss opportunities with us.
 
 Email: <a href="mailto:website@pbeaumont.com">website@pbeaumont.com</a>
 
