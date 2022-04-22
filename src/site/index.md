@@ -1,6 +1,6 @@
 ---
 title: Paul Beaumont
-subtitle: Principal Data Scientist at QuantumBlack, McKinsey & Company
+subtitle: Senior Principal Data Scientist at QuantumBlack, McKinsey & Company
 layout: layouts/base.njk
 ---
 
