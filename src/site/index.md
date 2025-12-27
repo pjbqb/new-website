@@ -1,12 +1,12 @@
 ---
-title: Paul Beaumont
-subtitle: Senior Principal Data Scientist / Associate Partner at QuantumBlack, McKinsey & Company
+title: Dr Paul Beaumont
+subtitle: Partner at QuantumBlack, McKinsey & Company
 layout: layouts/base.njk
 ---
 
 ## About Me
 
-I am a Senior Expert Data Scientist and Associate Partner at <a href="https://www.quantumblack.com/">QuantumBlack</a>, a <a href="https://www.mckinsey.com/">McKinsey company</a>. I'm based in Singapore, working with clients across South East Asia driving a variety of AI, generative AI and agentic AI problems.
+I am a Partner at <a href="https://www.quantumblack.com/">QuantumBlack</a>, part of <a href="https://www.mckinsey.com/">McKinsey &amp; Company</a>. I'm based in Singapore, working with clients across South East Asia building a variety of AI, generative AI and agentic AI solutions to solve a wide-range of business-relevant problems.
 Please get in touch if you would like to discuss opportunities with us.
 
 I completed a PhD in <a href="http://www.imperial.ac.uk/computing">Mathematical Modelling & Computer Science</a> and a MSci and BSc in <a href="http://www.imperial.ac.uk/mathematics">Mathematics</a>, all at <a href="https://www.imperial.ac.uk">Imperial College London</a>. 
